@@ -158,7 +158,11 @@ i {
 }
 
 .btn-new { top: 45px;}
-.btn-roll { top: 403px;}
+.btn-roll { 
+    top: 403px;
+    color: #151414;
+
+}
 .btn-hold { top: 467px;}
 
 .dice {
